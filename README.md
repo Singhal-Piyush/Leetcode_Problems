@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
