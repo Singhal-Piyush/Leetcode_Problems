@@ -30,4 +30,5 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
