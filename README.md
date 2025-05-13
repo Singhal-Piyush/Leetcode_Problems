@@ -19,6 +19,7 @@
 | [0344-reverse-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
@@ -54,4 +55,16 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
+## Hash Table
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
