@@ -1,11 +1,15 @@
 class Solution:
     def pivotInteger(self, n: int) -> int:
-        left_sum = 0 
-        right_sum = n*(n+1)/2
+        total_sum = n*(n+1)//2
 
-        for i in range(n):
-            left_sum +=i+1
-            right_sum -=i
+        left_sum = 0
+        right_sum = total_sum
+
+        for i in range(1,n+1):
+            left_sum = left_sum + i
+            right_sum = right_sum - i +1
+
             if left_sum == right_sum:
-                return i+1
+                return i
+                 
         return -1
