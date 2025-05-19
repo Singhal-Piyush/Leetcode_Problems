@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0027-remove-element) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2571-find-the-pivot-integer](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
