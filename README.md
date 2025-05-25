@@ -9,6 +9,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
