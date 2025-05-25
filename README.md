@@ -8,6 +8,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
