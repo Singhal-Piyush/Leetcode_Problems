@@ -27,6 +27,7 @@
 | [0541-reverse-string-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -85,6 +87,7 @@
 ## Counting
 |  |
 | ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
