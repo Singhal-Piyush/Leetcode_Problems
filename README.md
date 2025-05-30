@@ -31,6 +31,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
@@ -84,6 +85,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -95,6 +97,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
