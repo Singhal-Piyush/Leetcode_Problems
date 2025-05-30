@@ -7,6 +7,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2714-left-and-right-sum-differences) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
@@ -29,6 +30,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
@@ -81,6 +83,7 @@
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -91,6 +94,7 @@
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Simulation
 |  |
