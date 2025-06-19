@@ -6,6 +6,7 @@
 | [0027-remove-element](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1603-running-sum-of-1d-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
