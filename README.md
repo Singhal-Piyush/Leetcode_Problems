@@ -34,6 +34,7 @@
 | [0541-reverse-string-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -92,6 +93,7 @@
 | [0202-happy-number](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -122,6 +125,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
