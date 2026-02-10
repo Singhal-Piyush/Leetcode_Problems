@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/Singhal-Piyush/Leetcode_Problems/tree/master/0202-happy-number) |
