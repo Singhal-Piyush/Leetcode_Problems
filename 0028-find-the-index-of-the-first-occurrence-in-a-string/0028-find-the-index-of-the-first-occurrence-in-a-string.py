@@ -1,11 +1,21 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        pointer_1 = 0
-        pointer_2 = len(needle)
+        if len(haystack) >= len(needle):
 
-        while pointer_1 <= len(haystack)-len(needle):
-            if haystack[pointer_1: pointer_2] == needle:
-                return pointer_1
-            pointer_1 +=1
-            pointer_2 +=1
-        return -1
+            left = 0
+            right = 0
+
+            while (left < len(haystack)) & (right<len(needle)):
+                if haystack[left] == needle[right] :
+                    left += 1
+                    right +=1 
+
+                    if right == len(needle):
+                        return left - right
+                else:
+                    left = left - right+1
+                    right = 0
+            return -1
+        else:
+            return -1
+        
